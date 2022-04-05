@@ -1,0 +1,40 @@
+.register-btn{
+ color: rgb(0, 0, 0) !important ;
+}
+.count-down-area .count-down-wrapper .single-counter .counter{
+    color:rgb(3, 185, 149);
+}
+.count-down-area .count-down-wrapper .single-counter p{
+    color:rgb(3, 185, 149);
+}
+.box-color{
+    padding: 1em;
+    margin: 8px;
+    width: 32%;
+    background-color: rgba(255, 255, 255, 0.801);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,1);
+}
+
+
+.divider{
+    width: 50px;
+    height: 4px;
+    background-color: rgb(3, 185, 149);
+    margin-bottom: 10px;
+}
+.nav-button .nav-tabs .nav-link.active{
+    color:rgb(3, 185, 149);
+    border-bottom:4px solid rgb(3, 185, 149);
+}
+.nav-button .nav-tabs .nav-link:hover{
+    color:rgb(0, 129, 103);
+    border-bottom:4px solid rgb(1, 148, 119);
+}
+.card-body h4{
+  color: rgba(245, 245, 245, 0.904);
+}
+
+.card-body p{
+  color: rgba(245, 245, 245, 0.904);
+}
+
