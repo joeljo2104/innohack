@@ -16,7 +16,9 @@ p{
 .hack-heading{
   font-family: 'Montserrat', sans-serif !important;
 }
-
+#back-top{
+  background-color: #05b995;
+}
 
 button {
   margin-top: 20px;
@@ -194,7 +196,9 @@ button {
   color: #e9ecef;
 }
 .brand-area .wrapper-brand{
- background-color: white;
+ background-color: #0a0a0a80;
+ border-radius: 100px;
+ height: 21em;
 }
 .row{
   display: flex;
